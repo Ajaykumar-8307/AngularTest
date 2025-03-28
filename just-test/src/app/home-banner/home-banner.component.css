@@ -1,0 +1,16 @@
+.home-banner{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    display: none;
+}
+.home-banner-con{
+    padding: 12px;
+    overflow: hidden;
+}
+.home-banner img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 12px;
+}

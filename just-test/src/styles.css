@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+body{
+    padding-bottom: 23px;
+}
